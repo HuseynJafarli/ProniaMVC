@@ -132,3 +132,4 @@ C:\Users\User\Desktop\ProniaMVC\ProniaMVC\ProniaMVC\bin\Debug\net8.0\runtimes\wi
 C:\Users\User\Desktop\ProniaMVC\ProniaMVC\ProniaMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\User\Desktop\ProniaMVC\ProniaMVC\ProniaMVC\obj\Debug\net8.0\ProniaMVC.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\ProniaMVC\ProniaMVC\ProniaMVC\obj\Debug\net8.0\ProniaMVC.csproj.Up2Date
+C:\Users\User\Desktop\ProniaMVC\ProniaMVC\ProniaMVC\obj\Debug\net8.0\ProniaMVC.sourcelink.json

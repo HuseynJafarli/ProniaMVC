@@ -2,9 +2,10 @@
 
 namespace ProniaMVC.ViewModels
 {
-    public class HomeVM
+    public class DetailVM
     {
-        public List<Slide> Slides { get; set; }
+        public Product Product { get; set; }
         public List<Product> Products { get; set; }
+
     }
 }
