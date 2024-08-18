@@ -83,8 +83,7 @@
               "ViewState": "AQIAAAcAAAAAAAAAAAAkwBQAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T06:56:20.828Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "ProniaMVC\\Models\\Slide.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T22:13:52.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T22:13:52.612Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "ProniaMVC\\ViewModels\\DetailVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T21:20:33.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T21:20:33.949Z"
             },
             {
               "$type": "Document",
@@ -120,7 +117,7 @@
               "RelativeDocumentMoniker": "ProniaMVC\\Views\\Product\\Detail.cshtml",
               "ToolTip": "C:\\Users\\User\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC\\Views\\Product\\Detail.cshtml",
               "RelativeToolTip": "ProniaMVC\\Views\\Product\\Detail.cshtml",
-              "ViewState": "AQIAAMMBAAAAAAAAAAAkwMgBAAAnAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-18T17:25:40.314Z",
               "EditorCaption": ""
@@ -135,8 +132,7 @@
               "RelativeToolTip": "ProniaMVC\\Controllers\\ProductController.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAgwCgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T07:55:58.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T07:55:58.361Z"
             },
             {
               "$type": "Document",
@@ -148,8 +144,7 @@
               "RelativeToolTip": "ProniaMVC\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T08:07:38.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T08:07:38.391Z"
             },
             {
               "$type": "Document",
@@ -161,8 +156,7 @@
               "RelativeToolTip": "ProniaMVC\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T08:10:04.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T08:10:04.142Z"
             },
             {
               "$type": "Document",
@@ -174,8 +168,7 @@
               "RelativeToolTip": "ProniaMVC\\Models\\ProductImage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T08:12:33.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T08:12:33.566Z"
             },
             {
               "$type": "Document",
@@ -187,8 +180,7 @@
               "RelativeToolTip": "ProniaMVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAFwHAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-18T16:16:55.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T16:16:55.476Z"
             },
             {
               "$type": "Document",
@@ -200,8 +192,7 @@
               "RelativeToolTip": "ProniaMVC\\ViewModels\\HomeVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T16:10:40.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T16:10:40.637Z"
             },
             {
               "$type": "Document",
@@ -213,8 +204,7 @@
               "RelativeToolTip": "ProniaMVC\\Views\\Product\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-18T21:51:46.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T21:51:46.779Z"
             },
             {
               "$type": "Document",
