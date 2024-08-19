@@ -8,40 +8,40 @@ namespace ProniaMVC.Controllers
 {
     public class ProductController : Controller
     {
-        public readonly AppDbContext _context;
+        private readonly AppDbContext _context;
+
         public ProductController(AppDbContext context)
         {
             _context = context;
         }
+
         public IActionResult Index()
         {
             return View();
         }
-        public IActionResult Detail(int? id)
-        {
-            if(id == null || id <= 0)
-            {
-                return BadRequest();
-            }
 
-            Product product = _context.Products
+        public async Task<IActionResult> Detail(int? id)
+        {
+            if (id == null || id <= 0) return BadRequest();
+
+
+            Product? product = await _context.Products
                 .Include(p => p.Category)
-                .Include(p=>p.ProductImages.OrderByDescending(pi => pi.IsPrimary))
-                .FirstOrDefault(p => p.Id == id);
+                .Include(p => p.ProductImages.OrderByDescending(pi => pi.IsPrimary))
+                .FirstOrDefaultAsync(p => p.Id == id);
 
             if (product == null) return NotFound();
 
-            DetailVM vm = new DetailVM
+            DetailVM detailVM = new DetailVM()
             {
                 Product = product,
-                Products = _context.Products
-                .Where(p => p.CategoryId == product.CategoryId && p.Id != id)
+                Products = await _context.Products.Where(p => p.CategoryId == product.CategoryId && p.Id != id)
                 .Include(p => p.ProductImages.Where(pi => pi.IsPrimary != null))
-                .ToList(),
-                
+                .Take(8)
+                .ToListAsync()
             };
 
-            return View(vm);
+            return View(detailVM);
         }
     }
 }

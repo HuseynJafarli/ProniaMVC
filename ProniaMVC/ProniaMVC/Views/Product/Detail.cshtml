@@ -1,6 +1,4 @@
-﻿@using ProniaMVC.Models
-@using ProniaMVC.ViewModels
-
+﻿
 @model DetailVM
 
 
@@ -462,7 +460,7 @@
                             {
                                 <div class="swiper-slide product-item">
                                     <div class="product-img">
-                                        <a href="single-product-variable.html">
+                                        <a href="/product/detail/@product.Id">
                                             <img class="primary-img"
                                                  src="~/assets/images/website-images/@product.ProductImages.FirstOrDefault(pi => pi.IsPrimary == true).ImageURL"
                                                  alt="Product Images" />
