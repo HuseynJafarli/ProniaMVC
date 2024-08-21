@@ -1899,10 +1899,10 @@
                                 <div class="product-img">
                                     <a href="/product/detail/@product.Id">
                                         <img class="primary-img"
-                                             src="~/assets/images/website-images/@product.ProductImages.FirstOrDefault(pi =>pi.IsPrimary == true).ImageURL"
+                                             src="~/assets/images/website-images/@product.ProductImages.FirstOrDefault(pi =>pi.IsPrimary == true)?.ImageURL"
                                              alt="Product Images" />
                                         <img class="secondary-img"
-                                             src="~/assets/images/website-images/@product.ProductImages.FirstOrDefault(pi =>pi.IsPrimary == false).ImageURL"
+                                             src="~/assets/images/website-images/@product.ProductImages.FirstOrDefault(pi =>pi.IsPrimary == false)?.ImageURL"
                                              alt="Product Images" />
                                     </a>
                                     <div class="product-add-action">

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MMBXD8mxJtAXXIiL7ndkKV7MYbdhUgQ6psGBhO11T9s=",
+  "Hash": "1NrZmvA1MW0rjJmkKcdmnRViT9OADsuMdQ5z9Vj12ZE=",
   "Source": "ProniaMVC",
   "BasePath": "_content/ProniaMVC",
   "Mode": "Default",
@@ -3665,6 +3665,25 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\testimonial\\user\\3.png"
     },
     {
+      "Identity": "C:\\Users\\User\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\0ec346a9-5fde-4a89-bf4c-8e2304684f94Fretboard_Notes_RGB_Black_Stave_Lines_image.png",
+      "SourceId": "ProniaMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC\\wwwroot\\",
+      "BasePath": "_content/ProniaMVC",
+      "RelativePath": "assets/images/website-images/0ec346a9-5fde-4a89-bf4c-8e2304684f94Fretboard_Notes_RGB_Black_Stave_Lines_image.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\0ec346a9-5fde-4a89-bf4c-8e2304684f94Fretboard_Notes_RGB_Black_Stave_Lines_image.png"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\1.png",
       "SourceId": "ProniaMVC",
       "SourceType": "Discovered",
@@ -4594,25 +4613,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\card.png"
-    },
-    {
-      "Identity": "C:\\Users\\User\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\cda13fd3-e0d2-4e4c-8bca-6126e46f15f2theory roadmap.png",
-      "SourceId": "ProniaMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC\\wwwroot\\",
-      "BasePath": "_content/ProniaMVC",
-      "RelativePath": "assets/images/website-images/cda13fd3-e0d2-4e4c-8bca-6126e46f15f2theory roadmap.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\cda13fd3-e0d2-4e4c-8bca-6126e46f15f2theory roadmap.png"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\dark.png",
