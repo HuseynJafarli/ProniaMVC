@@ -1,4 +1,5 @@
-﻿using ProniaMVC.Utilities.Enums;
+﻿using ProniaMVC.Models;
+using ProniaMVC.Utilities.Enums;
 
 namespace ProniaMVC.Utilities.Extension
 {
@@ -35,6 +36,21 @@ namespace ProniaMVC.Utilities.Extension
             }
 
             return fileName;
+        }
+        public static void DeleteFile(this string fileName, params string[] roots) 
+        {
+            string path = string.Empty;
+            for (int i = 0; i < roots.Length; i++)
+            {
+                path = Path.Combine(path, roots[i]);
+            }
+
+            path = Path.Combine(path, fileName);
+
+            if (System.IO.File.Exists(path))
+            {
+                System.IO.File.Delete(path);
+            }
         }
     }
 }
