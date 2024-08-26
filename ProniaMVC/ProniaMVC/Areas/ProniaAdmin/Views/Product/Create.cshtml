@@ -19,17 +19,17 @@
                             </div> *@
                             <div class="form-group">
                                 <label asp-for="MainPhoto">Main Photo</label>
-                                <input asp-for="MainPhoto" class="form-control" placeholder="MainPhoto">
+                                <input asp-for="MainPhoto" class="form-control" placeholder="MainPhoto" accept="image/*"> 
                                 <span class="text-danger" asp-validation-for="MainPhoto"></span>
                             </div>
                             <div class="form-group">
                                 <label asp-for="HoverPhoto">Hover Photo</label>
-                                <input asp-for="HoverPhoto" class="form-control" placeholder="HoverPhoto">
+                                <input asp-for="HoverPhoto" class="form-control" placeholder="HoverPhoto" accept="image/*">
                                 <span class="text-danger" asp-validation-for="HoverPhoto"></span>
                             </div>
                             <div class="form-group">
                                 <label asp-for="Photos">Additional Photos</label>
-                                <input asp-for="Photos" class="form-control" placeholder="Photos">
+                                <input asp-for="Photos" class="form-control" placeholder="Photos" accept="image/*">
                                 <span class="text-danger" asp-validation-for="Photos"></span>
                             </div>
                             <div class="form-group">
