@@ -857,10 +857,6 @@
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-2-524x617.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\1-2-570x633.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-2-570x633.jpg"
-    },
-    {
       "Id": "C:\\Users\\User\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\1-2.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-2.png"
     },
@@ -961,6 +957,10 @@
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\2.png"
     },
     {
+      "Id": "C:\\Users\\User\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\207603fc-d430-4673-b5a1-2d781132da50theory roadmap.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\207603fc-d430-4673-b5a1-2d781132da50theory roadmap.png"
+    },
+    {
       "Id": "C:\\Users\\User\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\24b72545-849a-483f-8457-aa126d18a389theory roadmap.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\24b72545-849a-483f-8457-aa126d18a389theory roadmap.png"
     },
@@ -981,16 +981,16 @@
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\7bd1b92f-cb6f-468b-9486-c5bf8215a46etheory roadmap.png"
     },
     {
+      "Id": "C:\\Users\\User\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\9104c0da-18e0-472c-9abe-979c9dc7178atheory roadmap.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\9104c0da-18e0-472c-9abe-979c9dc7178atheory roadmap.png"
+    },
+    {
       "Id": "C:\\Users\\User\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\af4f5b59-4915-4ab2-a56c-33e9df9d2c5eFretboard_Notes_RGB_Black_Stave_Lines_image.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\af4f5b59-4915-4ab2-a56c-33e9df9d2c5eFretboard_Notes_RGB_Black_Stave_Lines_image.png"
     },
     {
       "Id": "C:\\Users\\User\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\b138b4cc-6bc5-4949-bba5-9b8e6ce07e88theory roadmap.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\b138b4cc-6bc5-4949-bba5-9b8e6ce07e88theory roadmap.png"
-    },
-    {
-      "Id": "C:\\Users\\User\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\b71187b3-4d6a-4283-824d-797cb86e9fa0Fretboard_Notes_RGB_Black_Stave_Lines_image.png",
-      "PackagePath": "staticwebassets\\assets\\images\\website-images\\b71187b3-4d6a-4283-824d-797cb86e9fa0Fretboard_Notes_RGB_Black_Stave_Lines_image.png"
     },
     {
       "Id": "C:\\Users\\User\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\car.png",
